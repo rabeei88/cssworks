@@ -1,0 +1,13 @@
+.text-danger{
+    color:green;
+
+}
+
+.text-white{
+    color: white;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
